@@ -1,1 +1,1 @@
-# njf_fire_effects
+# njf-fire-effects
