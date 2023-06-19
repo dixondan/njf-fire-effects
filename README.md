@@ -7,3 +7,27 @@ This repository is associated with the [open access paper](https://www.sciencedi
 <p align="center">
   <img src="graphabs.png" />
 </p>
+
+Included are the following data:
+--------
+
+  - Gridded flowering rasters for 2018, 2019 and 2020
+  - Perimeters and rasters of fires used in this study
+  - CSV file containing proportional flowering of treatment and control pairs
+ 
+Analysis
+--------
+   -  Flower detection via Google Earth Engine (xxx.ipynb)
+   -  Sample treatment and control pairs
+   -  R code to run SFD/Levels model
+
+Cite
+--------
+
+
+Questions
+--------
+Dan J. Dixon
+
+Email: 1dandixon@gmail.com
+Cooperative Research Centre for Honeybee Products: https://www.crchoneybeeproducts.com/
