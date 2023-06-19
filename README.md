@@ -15,11 +15,11 @@ Included are the following data:
   - Perimeters and rasters of fires used in this study
   - CSV file containing proportional flowering of treatment and control pairs
  
-Analysis
+And code to reproduce the analysis:
 --------
    -  Flower detection via Google Earth Engine (xxx.ipynb)
-   -  Sample treatment and control pairs
-   -  R code to run SFD/Levels model
+   -  Sample treatment and control pairs (xxx.ipynb)
+   -  R code to run SFD/Levels model (run.R)
 
 Cite
 --------
