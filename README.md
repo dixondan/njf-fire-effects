@@ -5,5 +5,5 @@ This repository is associated with the [open access paper](https://www.sciencedi
  "Fire reduces eucalypt forest flowering phenology at the landscape-scale" in the journal *Science of the Total Environmnet* by Dan Dixon, Nik Callow, John Duncan, Sam Setterfield, and Natasha Paul (2023). 
 
 <p align="center">
-  <img src="figs/graphabs.tif" />
+  <img src="figs/graphabs1.tif" />
 </p>
