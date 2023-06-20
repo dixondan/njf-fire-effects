@@ -1,2 +1,24 @@
 Fire history metadata
 
+This directory contains the following geotiff images:
+
+- "fire_2018.tif"
+- "fire_2019.tif"
+- "fire_2020.tif"
+
+They are provided as 30 x 30 m rasters (epsg: 32750). There are three bands:
+
+- Band 1: days since fire as of January 1 of that year (this will eventually be converted to years since fire)
+- Band 2: fire severity calculated with the model from https://doi.org/10.1016/j.rse.2021.112863 where
+            0 = unburnt between 2001 - fire year
+            1 = unburnt (but within a fire perimeter) but predicted unburnt (see description in paper)
+            2 = low severity
+            3 = mid severity
+            4 = high severity
+            5 = canopy consumed by fire
+            6 - 7 = mixed pixels containing multiple severity scores (occuring on the edges of fires) to remove
+            8 = within a fire perimter, but we do not have a severity score (these need to be removed because a severity score is required to run SFD/Levels models
+- Band 3: a numerical identifier to link back to each fire perimeter
+
+The difference between 2018, 2019 and 2020 is new fires occured in the years 2018 and 2019, and the time since fire
+needs to be updated according to each flowering year.
