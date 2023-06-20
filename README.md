@@ -12,7 +12,7 @@ Included are the following data:
 --------
 
   - Gridded flowering rasters for 2018, 2019 and 2020 for a part of the Northern Jarrah Forest, Western Australia
-  - Fire histry rasters including time since fire, severity and unique fire identifiers
+  - Fire history rasters including time since fire, severity and unique fire identifiers
   - CSV files to recreate estimates in Figure 3
  
 And code to reproduce the analysis:
