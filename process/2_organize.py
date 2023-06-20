@@ -195,3 +195,5 @@ def generate_out_and_fit():
     df_fit.to_csv(df_fit_outname, index=False)
 
 
+if __name__ == "__main__":
+    generate_out_and_fit()
