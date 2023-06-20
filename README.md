@@ -23,7 +23,9 @@ And code to reproduce the analysis:
 
 Cite
 --------
-
+D.J. Dixon, J.M.A. Duncan, J.N. Callow, et al., Fire reduces
+eucalypt forest flowering phenology at the landscape-scale, Science of the Total
+Environment (2023), https://doi.org/10.1016/j.scitotenv.2023.164828
 
 Questions
 --------
