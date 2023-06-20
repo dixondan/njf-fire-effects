@@ -17,9 +17,9 @@ Included are the following data:
  
 And code to reproduce the analysis:
 --------
-   -  Sampling treatment and control forest pairs in Google Earth Engine (1_sample_from_ee.py)
-   -  Organize those paris to run Levels and SFD models (2_organize.py)
-   -  R code to run SFD/Levels model (3_make_fig.R)
+   -  Sampling treatment and control forest pairs in Google Earth Engine (process/1_sample_from_ee.py)
+   -  Organize those paris to run Levels and SFD models (process/2_organize.py)
+   -  R code to run SFD/Levels model (process/3_make_fig.R)
 
 Cite
 --------
