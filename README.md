@@ -11,7 +11,7 @@ This repository is associated with the [open access paper](https://www.sciencedi
 Included are the following data:
 --------
 
-  - Gridded flowering rasters for 2018, 2019 and 2020 found
+  - Gridded flowering rasters for 2018, 2019 and 2020 for a part of the Northern Jarrah Forest, Western Australia
   - Fire histry rasters including time since fire, severity and unique fire identifiers
   - CSV files to recreate estimates in Figure 3
  
