@@ -1,0 +1,8 @@
+Flowering metadata
+This directory contains the following geotiff images:
+
+- "flowered_2018.tif"
+- "flowered_2019.tif"
+- "flowered_2020.tif"
+
+They are provided as 6 x 6 m rasters (epsg: 32750) with values 0 or 1, where if a tree canopy pixel was detected as flowering at least once during that year between January 15 and March 15, it was assigned a 1, and 0 otherwise. Pixels with values 0 or 1 represent all "tree canopy pixels" with a height of >= 4 m, and pixels containing "nan" represent either vegetation with <4 m height or some other land cover. These were masked according to the tree canopy masking process outlined in the paper (see Methods). 
