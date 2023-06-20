@@ -11,15 +11,15 @@ This repository is associated with the [open access paper](https://www.sciencedi
 Included are the following data:
 --------
 
-  - Gridded flowering rasters for 2018, 2019 and 2020
-  - Perimeters and rasters of fires used in this study
-  - CSV file containing proportional flowering of treatment and control pairs
+  - Gridded flowering rasters for 2018, 2019 and 2020 found
+  - Fire histry rasters including time since fire, severity and unique fire identifiers
+  - CSV files to recreate estimates in Figure 3
  
 And code to reproduce the analysis:
 --------
-   -  Flower detection via Google Earth Engine (xxx.ipynb)
-   -  Sample treatment and control pairs (xxx.ipynb)
-   -  R code to run SFD/Levels model (run.R)
+   -  Sampling treatment and control forest pairs in Google Earth Engine (1_sample_from_ee.py)
+   -  Organize those paris to run Levels and SFD models (2_organize.py)
+   -  R code to run SFD/Levels model (3_make_fig.R)
 
 Cite
 --------
